@@ -8,7 +8,7 @@ $update = $Config->checkUpdate();
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1" /> 
-    <title>eZ Server Monitor - <?php echo Misc::getHostname(); ?></title>
+    <title>Server Monitor - <?php echo Misc::getHostname(); ?></title>
     <link rel="stylesheet" href="web/css/utilities.css" type="text/css">
     <link rel="stylesheet" href="web/css/frontend.css" type="text/css">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
